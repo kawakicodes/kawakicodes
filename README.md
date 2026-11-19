@@ -29,11 +29,27 @@ Shows whether a website can be found on Google and in AI assistants like ChatGPT
 
 Free to run on your own computer, built in Python with AI coding assistance.
 
+## More projects
+
+### [Snippet Checker](https://github.com/kawakicodes/snippet-checker) · [try it live](https://kawakicodes.github.io/snippet-checker/#demo)
+
+See how page titles and descriptions will look in Google before you publish them. Drop in a spreadsheet; it measures every title in pixels, previews it like Google, and flags anything cut off, missing or duplicated.
+
+- **Raised a 494-page law-firm client site from an average score of 62 to 98**, cutting likely cut-off titles from 115 to 1 and missing descriptions from 494 to 0, by checking every rewritten title and description with this tool before delivery
+- **Checks 3,000 pages in under a second**, entirely in the browser, so client data never leaves the computer
+
+### [Product case study](https://github.com/kawakicodes/product-case-study)
+
+How I found a problem agencies couldn't see, shipped a tool that solves it, and decided what to fix first: requirements, prioritisation, decision log, metrics and roadmap.
+
+- **Turned about 100 review findings into a release with every critical and high issue closed**, by triaging on "does this give the user a wrong answer?" before anything cosmetic
+
 ## What I can help with
 
 - **Website health checks:** can Google and AI assistants actually find and read your site?
 - **Showing up in AI answers:** ChatGPT, Perplexity and Google's AI Overviews
 - **Automating repetitive marketing work:** reports, checks and alerts that run on their own
+- **Product thinking:** framing the user's problem, deciding what to build and what to cut, and measuring whether it worked
 
 ## Tools I use
 
