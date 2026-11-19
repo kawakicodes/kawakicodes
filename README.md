@@ -1,32 +1,32 @@
 # Kunal Yadav
 
-**Automation and AI-search tools · Mumbai, India**
+**I build tools that save marketers time · Mumbai, India**
 
-I build tools that automate repetitive website work: audits, monitoring and reports.
+I make simple tools that do the boring website checks for you, so you can spend your time on work that brings in clients.
 
 ## Featured project
 
 ### [AI Search Visibility Auditor](https://github.com/kunalop2222-jpg/ai-search-visibility-auditor)
 
-Checks whether websites can be found and read by search engines and AI assistants (ChatGPT search, Claude, Perplexity and Google's AI answers).
+Shows whether a website can be found on Google and in AI assistants like ChatGPT, Perplexity and Claude, and what to fix if it can't.
 
-- Sends a live request as each AI search crawler, catching sites whose robots.txt allows a crawler while the firewall blocks it
-- Reads robots.txt the way Google does (RFC 9309) and separates AI search crawlers from training crawlers, following each vendor's documentation
-- Ranks sites as leads and drafts a pitch email for each
-- Re-checks a watchlist daily and alerts on outages and regressions, with an n8n workflow for email alerts
-- Python standard library only, 49 automated tests
+- Paste in a list of websites and get two scores out of 100 for each, with every problem explained and a "what to do" next to it
+- Spots hidden blocks, such as a website's security settings quietly stopping ChatGPT or Perplexity from reading it
+- Ranks the websites by how much help they need and writes a ready-to-send pitch email for each one
+- Re-checks your client websites every morning and can email you only when something breaks or gets worse
+- Free to run on your own computer, built in Python with AI coding assistance
 
-## What I work on
+## What I can help with
 
-- Website audits: crawlability, indexability, robots.txt, sitemaps, structured data
-- AI-search visibility: how ChatGPT, Claude, Perplexity and Google's AI answers read a site
-- Automation: Python scripts (built with AI coding assistance), n8n workflows, scheduled monitoring
+- **Website health checks:** can Google and AI assistants actually find and read your site?
+- **Showing up in AI answers:** ChatGPT, Perplexity and Google's AI Overviews
+- **Automating repetitive marketing work:** reports, checks and alerts that run on their own
 
-## Tools
+## Tools I use
 
-Python · n8n · Google Search Console · Google Analytics · Excel
+Python · n8n (no-code automation) · Google Search Console · Google Analytics · Excel
 
 ## Contact
 
 Open to remote roles and roles abroad.
-[LinkedIn](https://www.linkedin.com/in/kunalop)
+[Message me on LinkedIn](https://www.linkedin.com/in/kunalop)
