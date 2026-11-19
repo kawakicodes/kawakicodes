@@ -21,7 +21,11 @@ Shows whether a website can be found on Google and in AI assistants like ChatGPT
 - Spots hidden blocks, such as a website's security settings quietly stopping ChatGPT or Perplexity from reading it
 - Ranks the websites by how much help they need and writes a ready-to-send pitch email for each one
 - Re-checks your client websites every morning and can email you only when something breaks or gets worse
-- **Real result:** on 16 client websites it caught two whose security settings had started blocking Perplexity, which nobody had noticed
+
+**Results**
+- **Caught 2 client websites silently blocking Perplexity's AI crawler** within the first week of monitoring 16 client sites, by building a daily monitor that knocks on the door as each AI search crawler instead of only reading the site's rules
+- **Cut a full visibility check of a client portfolio to one command**, covering 16 websites across 26 scored checks each, by building a tool that scores Google and AI-search readiness and explains what to fix
+- **Closed every critical and high defect from 2 independent review rounds**, locked in by 49 automated tests, by testing it as a first-time customer, a senior developer and an accuracy checker
 
 Free to run on your own computer, built in Python with AI coding assistance.
 
