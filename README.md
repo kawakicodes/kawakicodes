@@ -6,7 +6,7 @@ I make simple tools that do the boring website checks for you, so you can spend 
 
 ## Featured project
 
-### [AI Search Visibility Auditor](https://github.com/kunalop2222-jpg/ai-search-visibility-auditor)
+### [AI Search Visibility Auditor](https://github.com/kawakicodes/ai-search-visibility-auditor)
 
 Shows whether a website can be found on Google and in AI assistants like ChatGPT, Perplexity and Claude, and what to fix if it can't.
 
